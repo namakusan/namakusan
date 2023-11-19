@@ -1,5 +1,6 @@
 - I'm @namakusan but you can call me just San.
 - I'm not an avid programmer, just someone who learns programming for fun.
+- Mac user.
 - Indonesian.
 - Contact me through means of discord, @someonenamedsan
 
