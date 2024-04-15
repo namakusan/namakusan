@@ -1,8 +1,9 @@
-- I'm @namakusan but you can call me just San.
-- I'm not an avid programmer, just someone who learns programming for fun.
+- Typically called San.
+- Language learner.
+- Not a programmer.
 - Mac user.
 - Indonesian.
-- Contact me through means of discord, @someonenamedsan
+- Discord/Twitter, @someonenamedsan
 
 <!---
 namakusan/namakusan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
