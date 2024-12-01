@@ -1,6 +1,3 @@
-- Typically called San.
-- Language learner.
-- Not a programmer.
 - Mac user.
 - Indonesian.
 - Discord/Twitter, @someonenamedsan
