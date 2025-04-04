@@ -1,6 +1,4 @@
-- Mac user.
-- Indonesian.
-- Discord/Twitter, @someonenamedsan
+may god have mercy on our souls
 
 <!---
 namakusan/namakusan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
